@@ -12,4 +12,5 @@ static double Sqr(double X)
     return X * X;
 }
 //new feature
+//solve task2
 
